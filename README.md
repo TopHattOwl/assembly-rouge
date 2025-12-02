@@ -12,3 +12,7 @@ ld roguelike.o -o roguelike # link
 ### Controls
 
 move with the numpad (1-9), '5' is wait action
+
+---
+
+Just bump into the enemies ('g') to hit them
